@@ -1,0 +1,14 @@
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment14\UC8\UC8\bin\Debug\netcoreapp3.1\UC8.exe
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment14\UC8\UC8\bin\Debug\netcoreapp3.1\UC8.deps.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment14\UC8\UC8\bin\Debug\netcoreapp3.1\UC8.runtimeconfig.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment14\UC8\UC8\bin\Debug\netcoreapp3.1\UC8.runtimeconfig.dev.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment14\UC8\UC8\bin\Debug\netcoreapp3.1\UC8.dll
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment14\UC8\UC8\bin\Debug\netcoreapp3.1\UC8.pdb
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment14\UC8\UC8\obj\Debug\netcoreapp3.1\UC8.csproj.AssemblyReference.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment14\UC8\UC8\obj\Debug\netcoreapp3.1\UC8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment14\UC8\UC8\obj\Debug\netcoreapp3.1\UC8.AssemblyInfoInputs.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment14\UC8\UC8\obj\Debug\netcoreapp3.1\UC8.AssemblyInfo.cs
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment14\UC8\UC8\obj\Debug\netcoreapp3.1\UC8.csproj.CoreCompileInputs.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment14\UC8\UC8\obj\Debug\netcoreapp3.1\UC8.dll
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment14\UC8\UC8\obj\Debug\netcoreapp3.1\UC8.pdb
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment14\UC8\UC8\obj\Debug\netcoreapp3.1\UC8.genruntimeconfig.cache
